@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string-array name="Number_of_players">
+        <item>
+            One Player
+        </item>
+        <item>
+            Two Player
+        </item>
+    </string-array>
+</resources>
